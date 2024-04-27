@@ -1,0 +1,75 @@
+@import url("reset.css");
+
+* {
+	color: mediumslateblue;
+}
+
+p {
+	color: chocolate;
+}
+h1 {
+	color: blueviolet;
+}
+h2 {
+	color: blue;
+}
+h3 {
+}
+a {
+}
+.lesson {
+}
+
+.title {
+}
+#some-id {
+}
+
+[class*="tle"] {
+}
+div.text {
+}
+
+.page_text.text {
+	color: blueviolet;
+}
+.title {
+	color: aqua;
+}
+.text {
+	color: azure;
+}
+title,
+.text,
+li {
+	color: yellowgreen;
+}
+.lesson a {
+	color: burlywood;
+}
+.lesson.goldenrod-text {
+}
+
+.lesson * {
+}
+.lesson > {
+	color: turquoise;
+}
+.lesson ~ p {
+}
+.lesson + p {
+	color: darkred;
+}
+p {
+}
+p {
+}
+.text {
+	color: hotpink;
+}
+.page_text {
+	color: black;
+}
+* {
+	color: navy;
+}
